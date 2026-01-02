@@ -1,8 +1,3 @@
-
---Интерактивная версия дашборда доступна по запросу. 
---Ввиду ограничений Power BI Desktop на публикацию в интернете по ссылке представлен статичный обзор в PDF».
---https://drive.google.com/drive/folders/14k6fbZAzyZGh0N2A5EzM_ff0Qf8wrLjP?usp=drive_link
-
 --Информация о таблице UberRides
 
 --Date - дата бронирования (заказа)
